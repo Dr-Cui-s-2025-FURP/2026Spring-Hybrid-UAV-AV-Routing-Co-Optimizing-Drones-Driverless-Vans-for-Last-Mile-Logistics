@@ -1,9 +1,6 @@
 # Hybrid-UAV-AV-Routing-Co-Optimizing-Drones-Driverless-Vans-for-Last-Mile-Logistics
 
 
-> **FURP — FOSE Undergraduate Research Project**
-> School of Engineering | Undergraduate Research Programme
-
 ---
 
 ## 📖 1. Project Background & Overview (Start Here)
